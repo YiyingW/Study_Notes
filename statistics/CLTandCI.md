@@ -1,6 +1,8 @@
 [play around here for understanding sampling](https://gallery.shinyapps.io/CLT_mean/)
 ## Sampling variability and CLT
 * sample statistics v.s. sampling statistics v.s. polupation statistics 
+      * the distribution of sample means is called sampling distribution 
+      * in practice, one rarely builds sampling distribution because don't have access to data from the entire population
 * standard deviation of the samples means is called standard error  
 * Central Limit Theorem: the distribution of sample statistics is nearly normal, centered at the 
 population mean, and with a standard deviation equal to the population standard
