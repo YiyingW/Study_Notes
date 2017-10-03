@@ -66,6 +66,33 @@ git config --global user.email "jane.doe@university.edu"
       1. Go to your GitHub account and navigate to “Settings”. Click on “SSH and GPG keys”.
       1. Click on “New SSH key”. Name the key something like “mylaptop”. Paste in your public key in the “Key box”.
   
-
-
+## Push local repo to the empty GitHub repo
+* in shell, navigate to the directory you want to push
+* add the github repo as a remote branch 
+```
+git remote add origin url
+```
+* push the contents of the local repo to the GitHub repo
+```
+git push -u origin master
+```
+* to pull a repo 
+```
+git clone url
+```
+## Issues
+* each origin GitHub repo has a tab for "issues" which works like a discussion forum. 
+## pull request
+* use a pull request to suggest changes to a repo that you don't own 
+  * fork the repo
+  * make changes (locally or on GitHub)
+  * save your changes and commit them
+  * submit a pull request to the original repo
+  * the owner can merge the changes into the original repo, or if there are conflicts, 
+  the conflicts need to be resolved before the pull request can be merged. 
+## merge conflicts
+come up in a few situations   
+* pull in commits from the GitHub branch of a repo you've been working on locally
+* someone sends a pull request for one of your repo, and you have updated some of the code
+between when the person forked the repo and submitted the pull request
 
