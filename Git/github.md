@@ -31,3 +31,41 @@ package, install R packages directly from GitHub.
 git config --global user.name "Jane Doe"
 git config --global user.email "jane.doe@university.edu"
 ```
+## initialize a git repo
+* using commands from a bash shell 
+  * from terminal, navigate to the directory. 
+  * check that it is not already a git repo. 
+  ```
+  git status
+  ```
+  * initialize it as a repo
+  ```
+  git init
+  ```
+* directly from RStudio 
+  * make the directory an R project. File -> New Project -> Existing Directory 
+  * open the R project
+  * Tools -> Version Control -> Project Setup
+  * in the box for "Version control system", choose "Git"
+  * should have a Git window in one of RStudio panes.
+## Commit changes
+* make git commits from the RStudio
+  * "Commit" button in the Git window 
+  
+## Host git repo online
+* work collaboratively on a shared repo
+* fork someone else's repo to create your own copy so you can use and change
+* suggest changes to other people's repo through pull requests 
+* if you have a local directory that you would like to push to GitHub
+  * make sure that the directory is under git version control 
+  * create an empty repo on github to sync with your local repo   
+  * connect the two repos
+    * adding SSH key from RStudio to your GitHub account with the following steps
+      1. In RStudio, go to “RStudio” -> “Preferences” -> “Git / svn”. Choose to “Create RSA key”.
+      1. Click on “View public key”. Copy everything that shows up.
+      1. Go to your GitHub account and navigate to “Settings”. Click on “SSH and GPG keys”.
+      1. Click on “New SSH key”. Name the key something like “mylaptop”. Paste in your public key in the “Key box”.
+  
+
+
+
