@@ -24,10 +24,12 @@ df_group = k - 1, k is the number of groups, df_error = n - k, n is the total sa
   and "within" group variabilities if in fact the means of all groups are equal
   * because F is a ratio, it can never be negative. 
   * `pf(21.735, 3, 791, lower.tail = FALSE)`
-
-
 * corrected significane level, Bonferroni correction, to combat inflating type 1 error 
 rate. 
+  * Note: when doing pairwise comparison, there are some changes from the basic two group t test
+    * the square error for individual groups are changed to the overall MSE from ANOVA table
+    * the df is df_error 
+    * use the above values to calculate p-value 
 * it is possible to reject the null hypothesis in ANOVA but not find
 significant differences between groups when doing pairwise comparisons. 
 
