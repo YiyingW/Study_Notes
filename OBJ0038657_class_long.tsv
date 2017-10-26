@@ -1,0 +1,235 @@
+SampleName	RunID	Injection	Label	Group	Batch	QC	Objective	cond_1	cond_2	Key	Value
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	PE	129.6872
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	LPE	6.1175
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	TAG	973.3541
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	PC	1954.6107
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	SM	564.0891
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	LPC	292.2506
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	FFA	NA
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	DCER	0.9295
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	CE	4319.5206
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	HCER	5.1926
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	DAG	12.1201
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	LCER	3.6016
+1096462	12	1	1	COPD	set1	no	38657	COPD	COPD	CER	14.1126
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	LPC	386.305
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	PE	131.6497
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	CER	7.6974
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	HCER	4.1799
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	LPE	7.5188
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	CE	3678.0171
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	PC	1661.0554
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	LCER	2.7906
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	TAG	1059.5407
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	FFA	NA
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	SM	407.5918
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	DAG	44.9534
+1096463	9	1	1	COPD	set1	no	38657	COPD	COPD	DCER	NA
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	PE	147.6859
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	PC	1930.467
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LPE	4.247
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LPC	245.9588
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	FFA	NA
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LCER	3.5409
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	CER	8.7206
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	DAG	15.8836
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	SM	434.4816
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	CE	3709.9212
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	HCER	4.6923
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	TAG	678.6186
+117461	13	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	DCER	1.1431
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	PC	1859.2075
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	CE	3510.7649
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	LPC	478.4659
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	TAG	1117.9096
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	CER	10.045
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	PE	138.8978
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	SM	517.3937
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	LCER	3.7008
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	LPE	6.0101
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	HCER	4.1158
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	FFA	NA
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	DCER	0.9519
+1237144	14	1	1	COPD	set1	no	38657	COPD	COPD	DAG	24.7581
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	SM	472.4571
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	PC	1791.6478
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	PE	114.0531
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	LPC	503.4657
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	LPE	7.6619
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	HCER	5.9044
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	LCER	4.8235
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	DCER	0.4125
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	TAG	754.7543
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	FFA	NA
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	DAG	62.7923
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	CER	7.7165
+1237145	22	1	1	COPD	set1	no	38657	COPD	COPD	CE	4213.9246
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	PE	72.1077
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	LPE	8.2523
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	LCER	3.6515
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	SM	585.1717
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	PC	1601.8287
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	DAG	93.8575
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	LPC	654.601
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	FFA	NA
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	HCER	6.4234
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	CER	8.4061
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	DCER	0.358
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	CE	4511.4013
+1237146	17	1	1	COPD	set1	no	38657	COPD	COPD	TAG	716.7761
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	PC	3102.063
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	PE	253.6669
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	CER	17.8901
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	LPE	11.2288
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	CE	6660.368
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	LCER	4.6637
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	DCER	1.3497
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	TAG	2260.0779
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	FFA	NA
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	LPC	653.3857
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	SM	812.7578
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	DAG	44.5776
+1237147	18	1	1	COPD	set1	no	38657	COPD	COPD	HCER	7.5365
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	CE	5517.3435
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	DCER	7.2629
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	PC	3031.1299
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	TAG	1852.4391
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	SM	656.1683
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	CER	19.2105
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	LPC	383.0623
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	PE	218.4674
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	HCER	10.1045
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	LPE	12.1003
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	LCER	8.0856
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	FFA	NA
+1237148	5	1	1	COPD	set1	no	38657	COPD	COPD	DAG	27.5554
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	CE	3755.9697
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	SM	506.5137
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	HCER	4.7329
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	PC	1976.1803
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	TAG	1127.7381
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	DCER	0.4291
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	PE	152.4285
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	LPC	432.3321
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	DAG	37.4469
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	CER	6.1433
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	LPE	5.9201
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	LCER	2.9721
+1237150	21	1	1	COPD	set1	no	38657	COPD	COPD	FFA	NA
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	SM	519.5864
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	DCER	0.9
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	PE	140.565
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	FFA	NA
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	HCER	5.5239
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	PC	2433.3302
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LPE	5.7028
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LPC	253.5048
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LCER	3.3472
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	TAG	2369.727
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	CER	9.3472
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	DAG	50.6882
+29642	11	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	CE	4013.7683
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	PE	150.5896
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	PC	1840.0217
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LPE	3.188
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LPC	168.8095
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LCER	3.0009
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	DCER	0.9384
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	SM	470.9446
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	TAG	973.9852
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	FFA	NA
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	CER	7.4419
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	DAG	21.3332
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	HCER	3.4175
+313584	8	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	CE	3513.5144
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	TAG	2400.3335
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	SM	537.2087
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	PE	176.797
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LPE	5.9915
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	CE	4337.7653
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	PC	2674.8468
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LCER	4.0016
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LPC	262.2975
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	FFA	NA
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	HCER	6.3264
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	DAG	52.8276
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	DCER	3.5742
+333016	6	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	CER	11.4529
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	TAG	992.9547
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LPC	166.4224
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	PE	181.6666
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	SM	475.0276
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LPE	3.8477
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	CE	3568.5891
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	CER	7.7635
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	PC	1811.9757
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LCER	3.3716
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	HCER	4.4992
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	FFA	NA
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	DCER	0.6411
+368569	20	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	DAG	21.351
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	CE	3523.3835
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	TAG	1082.9833
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	PC	1894.9812
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	SM	470.8168
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LPC	253.4367
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LPE	5.8854
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	HCER	4.7443
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	PE	149.7957
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	DCER	1.0721
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	CER	9.0243
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LCER	4.2237
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	FFA	NA
+392893	10	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	DAG	22.6246
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	TAG	1224.2538
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	PE	179.3295
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	SM	511.4171
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	CE	3984.3479
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LCER	2.6595
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	HCER	4.8351
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	FFA	NA
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	DCER	0.7058
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LPC	319.9958
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LPE	10.7633
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	DAG	20.7965
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	PC	2516.571
+574143	16	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	CER	8.9732
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	PE	138.4234
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LPE	6.1534
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LCER	2.1137
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	FFA	NA
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	LPC	300.229
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	DAG	22.4221
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	HCER	3.1019
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	SM	419.8242
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	CER	6.8382
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	CE	3026.5534
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	DCER	0.8933
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	PC	1854.8898
+590907	23	1	1	Healthy_non smoker	set1	no	38657	Healthy	non smoker	TAG	987.6617
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	SM	463.243
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LCER	3.0088
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	PE	145.3679
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LPC	290.9123
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	TAG	1584.182
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	PC	2126.6336
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LPE	6.6354
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	HCER	3.8701
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	CER	8.2302
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	DCER	0.991
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	CE	4031.456
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	FFA	NA
+784086	15	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	DAG	38.9049
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LPE	7.4246
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LCER	3.0324
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	FFA	NA
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	SM	476.1773
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	PE	261.2509
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	HCER	4.7164
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	DAG	35.3859
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	PC	2611.0952
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	CE	4216.0469
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	DCER	1.7413
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	LPC	340.8774
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	CER	13.4996
+959409	7	1	1	Healthy_smoker	set1	no	38657	Healthy	smoker	TAG	2031.1098
