@@ -14,13 +14,15 @@ write.table(Bartlett_result, file = "Bartlett_test_species.txt", sep="\t", quote
 
 
 # Levene's test: use when the data is not normally distributed
+library(car)
 Levene_result <- data.frame(Analyte = character(), p_value = numeric())
 data$Key <- factor(data$Key)
+data$cond_1 <- factor(data$cond_1)
 for (key in levels(data$Key)) {
   sub <- data[data$Key == key,]
   p_value <- NA
-  try(p_value <- leveneTest.test(Value~cond_1, sub)[["Pr(>F)"]], silent=T)
-  Levene_result <- Bartlett_result %>%
+  try(p_value <- leveneTest(Value~cond_1, sub)[["Pr(>F)"]], silent=T)
+  Levene_result <- Levene_result %>%
     rbind(data.frame(Analyte = key, p_value = p_value))
 }
 
