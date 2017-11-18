@@ -124,3 +124,14 @@ abline(regression.2)
 cov2cor(vcov(regression.2)) 
 confidenceEllipse(regression.2)
 
+# Model diagnostic
+par(mfrow=c(2, 2))
+plot(lm.obj)  # gives you four plots. residual vs fitted. QQ plot. ..
+# you can also plot observed v.s. fitted to see if they are on a line. It is the plot version of R^2.
+hist(resid(lm.object))  # have a look at errors, if they are normal
+boxplot(resid(lm.object) ~ X1:X2, data=data)  # if there are uncounted variations in the error conditioned on X1 and X2
+lm(y~x, data=data, subset=c(-5,-5))  # remove outliers and fit model again
+acf(resid(lm.object))  # autocorrection function. see if residuals depend on the order of the data. if they do, there
+# are uncounted variations in the data
+
+
