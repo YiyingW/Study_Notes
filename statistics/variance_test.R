@@ -1,4 +1,8 @@
 # use function from R
+
+# F test to compare two variances 
+var.test(rnorm(10, sd=1), rnorm(10, sd=2))
+
 # Bartlett's test: testing homogeneity of variances in k samples. For normally distributed data.
 Bartlett_result <- data.frame(Analyte = character(), p_value = numeric())
 data$Key <- factor(data$Key)
