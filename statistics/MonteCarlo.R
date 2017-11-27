@@ -19,7 +19,7 @@ for (i in 1:N) {
   rm(sim_data)
 }
 hist(simulated_means)
-sd(simulated_means)  # standard deviation of sampling mean, standard error, 2 / sqrt(n) = 2 / 100
+sd(simulated_means)  # standard deviation of sampling mean, standard error, 2 / sqrt(n) = 2 / 10
 # sample size influences the estimated standard error 
 
 ############################ Monte Carlo Simulations (regression)#######################
