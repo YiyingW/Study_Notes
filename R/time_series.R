@@ -115,7 +115,20 @@ points(AR_forecast, type = "l", col = 2)
 points(AR_forecast - 2*AR_forecast_se, type = "l", col = 2, lty = 2)
 points(AR_forecast + 2*AR_forecast_se, type = "l", col = 2, lty = 2)
 
+################# MA Model Estimation and Forecasting ###############
+inflation_changes <- diff(inflation)
+ts.plot(inflation); ts.plot(inflation_changes)
+acf(inflation_changes, lag.max = 24)  # a strong negative autocorrelation estimates at lag 1, all others near 0
+MA_inflation_changes <- arima(inflation_changes, order = c(0, 0, 1))
+MA_inflation_changes
 
+ts.plot(inflation_changes)
+MA_inflation_changes_fitted <- inflation_changes - residuals(MA_inflation_changes)
+points(MA_inflation_changes_fitted, type = "l", col = "red", lty = 2)
+
+# Forecasting
+predict(MA_inflation_changes)
+predict(MA_inflation_changes, n.ahead = 6)
 
 
 
