@@ -71,6 +71,29 @@ ts.plot(z)
 acf(z)
 
 
+########## AR processes, inflation rate ############
+data(Mishkin, package = "Ecdat")
+inflation <- as.ts(Mishkin[, 1])
+ts.plot(inflation)  # usually positive value and it is fairly persistance 
+acf(inflation)  # strong, positive but decaying autocorrelation estimates from lag 1 to 24
+# AR model: (Today - mean) = slope * (yesterday - mean) + noise
+AR_inflation <- arima(inflation, order = c(1, 0, 0))
+AR_inflation
+# mean = 3.745, slope = 0.596
+
+# AR fitted values, Today_hat = mean_hat + slope_hat * (Yesterday - mean_hat)
+# residuals = Today - Today_hat
+ts.plot(inflation)
+AR_inflation_fitted <- inflation - residuals(AR_inflation)
+points(AR_inflation_fitted, type = "l", col = "red", lty = 2)
+
+# Forecasting
+# 1-step ahead forcasts
+predict(AR_inflation)
+# h-step ahead forcasts
+predict(AR_inflation, n.ahead = 6)
+
+
 
 
 
