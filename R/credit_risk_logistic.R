@@ -77,3 +77,46 @@ loan_data$ir_cat <- as.factor(loan_data$ir_cat)
 
 # Look at your new variable using plot()
 plot(loan_data$ir_cat)
+
+########### Splitting the dataset ################
+# Set seed of 567
+set.seed(567)
+
+# Store row numbers for training set: index_train
+index_train <- sample(1:nrow(loan_data), 2 / 3 * nrow(loan_data))
+
+# Create training set: training_set
+training_set <- loan_data[index_train, ]
+
+# Create test set: test_set
+test_set <- loan_data[-index_train, ]
+
+############## Creating a confusion matrix ##############
+
+################## Logistic Regression ##################
+# Build a glm model with variable ir_cat as a predictor
+log_model_cat <- glm(loan_status ~ ir_cat, family = "binomial", 
+                      data = training_set)
+
+
+# Print the parameter estimates 
+log_model_cat
+
+# Look at the different categories in ir_cat using table()
+table(loan_data$ir_cat)
+
+
+# Build the logistic regression model
+log_model_multi <- glm(loan_status ~ age + ir_cat + grade + loan_amnt + annual_inc, family = 'binomial', training_set)
+
+
+# Obtain significance levels using summary()
+summary(log_model_multi)
+
+
+################## Making Predictions ###############
+predict(model, dataframe, type = 'response' )
+
+
+
+
