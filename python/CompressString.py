@@ -1,4 +1,6 @@
 def Compress(string):
+    if string == "":
+        return ""
     result = []
     current = string[0]
     count = 1
@@ -6,12 +8,10 @@ def Compress(string):
         if string[i] == current:
             count += 1
         else:
-            result.append(current)
-            result.append(str(count))
+            result += [current, str(count)]
             current = string[i]
             count = 1
-    result.append(current)
-    result.append(str(count))
+    result += [current, str(count)]
     return "".join(result)
 
 print Compress("AAB")
