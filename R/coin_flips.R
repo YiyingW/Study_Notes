@@ -43,3 +43,7 @@ for (i in 1:n) {
   num_flips[i] <- length(coins)
 }
 print(mean(num_flips))
+
+
+######## can use rbinom to simulate number of heads in n trials with p = 0.5 or anything 
+rbinom(n = 100. size = 4, prob = 0.5)
